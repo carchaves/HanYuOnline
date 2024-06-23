@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>practica chino</title>
+</head>
+<body>
+    <div class="chechboxes">
+        <input type="checkbox" id="chHanzi" checked onclick="mostrar('hanzi','chHanzi')"> Hanzi
+        <input type="checkbox" name="chPinyin" checked onclick="mostrar('pinyin','chPinyin')"> Pinyin
+        <input type="checkbox" name="chEspanol" checked onclick="mostrar('espanol','chEspanol')"> Español
+    </div>
+
+    <div id ="hanzi">
+    </div>
+
+    
+    <div class ="pinyin">
+        <h2 id="PinYin"></h2>
+    </div>
+
+    
+    <div class ="espanol">
+        <h2 id="traduccion"></h2>
+    </div>
+
+    <button onclick="cargarImagenAleatoria();" >caracter aleatorio</button>
+    
+    <script src="script.js"></script>
+
+    
+</body>
+</html>
