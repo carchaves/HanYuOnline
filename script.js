@@ -671,7 +671,7 @@ let caracteresPinyinTraduccion = [
         //traduccion
         traduccion: 'adiós',
         //caracter
-        caracter: diCh.zai + diCh.jian
+        caracter: diCh.zai_otravez + diCh.jian
 
     },
     {   
