@@ -64,7 +64,7 @@ let diCh = {
     shi_reconocer: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/35782.svg" title="识 ( shi / shí ) orden de los trazos" width="150" height="150"></object>',
     jin: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/36827.svg" title="进 ( jin / jìn ) orden de los trazos" width="150" height="150"></object>',
     lai: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/26469.svg" title="来 ( lai / lái ) orden de los trazos" width="150" height="150"></object>',
-    xi: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20064.svg" title="习 ( xi / xí ) orden de los trazos" width="150" height="150"></object>',
+    xi_practica: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20064.svg" title="习 ( xi / xí ) orden de los trazos" width="150" height="150"></object>',
     gao: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/39640.svg" title="高 ( gao / gāo ) orden de los trazos" width="150" height="150"></object>,',
     xing_feliz: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20852.svg" title="兴 ( xing / xìng ) orden de los trazos" width="150" height="150"></object>',
     xiao: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/23567.svg" title="小 ( xiao / xiăo ) orden de los trazos" width="150" height="150"></object>',
@@ -406,11 +406,11 @@ let caracteresPinyinTraduccion = [
     },
     {   
         //pinyin
-        pinyin: 'Rìbĕn',        
+        pinyin: 'Rìwén',        
         //traduccion
         traduccion: 'idioma japonés',
         //caracter
-        caracter: diCh.ri + diCh.ben
+        caracter: diCh.ri + diCh.wen
 
     },
     {   
@@ -572,7 +572,7 @@ let caracteresPinyinTraduccion = [
         //traduccion
         traduccion: 'estudiar',
         //caracter
-        caracter: diCh.xue + diCh.xi
+        caracter: diCh.xue + diCh.xi_practica
 
     },
     {   
@@ -606,7 +606,7 @@ let caracteresPinyinTraduccion = [
         //pinyin
         pinyin: 'hăo',        
         //traduccion
-        traduccion: 'muy',
+        traduccion: 'bueno/bien',
         //caracter
         caracter: diCh.hao
 
@@ -833,7 +833,7 @@ let caracteresPinyinTraduccion = [
         //traduccion
         traduccion: 'abuelo paterno',
         //caracter
-        caracter: diCh.ye + diCh.ye
+        caracter: diCh.ye_abuelo + diCh.ye_abuelo
 
     },
     {   
