@@ -108,6 +108,7 @@ let diCh = {
 }
 let caracteresPinyinTraduccion = [
     {   
+        categoria: "pron dem",
         //pinyin
         pinyin: 'zhè',        
         //traduccion
@@ -117,6 +118,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "pron dem",
         //pinyin
         pinyin: 'nà',        
         //traduccion
@@ -126,6 +128,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "pron dem",
         //pinyin
         pinyin: 'zhèr',        
         //traduccion
@@ -135,6 +138,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "pron dem",
         //pinyin
         pinyin: 'nàr',        
         //traduccion
@@ -144,6 +148,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "estudio",
         //pinyin
         pinyin: 'xuésheng',        
         //traduccion
@@ -153,6 +158,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "profesiones",
         //pinyin
         pinyin: 'yīshēng',        
         //traduccion
@@ -162,6 +168,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "profesiones",
         //pinyin
         pinyin: 'lăoshī',        
         //traduccion
@@ -171,6 +178,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "profesiones",
         //pinyin
         pinyin: 'jiàoshòu',        
         //traduccion
@@ -180,6 +188,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "profesiones",
         //pinyin
         pinyin: 'jìzhĕ',        
         //traduccion
@@ -189,6 +198,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "paises",
         //pinyin
         pinyin: 'Zhōngguó',        
         //traduccion
@@ -198,6 +208,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "paises",
         //pinyin
         pinyin: 'Mĕiguó',        
         //traduccion
@@ -207,6 +218,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "paises",
         //pinyin
         pinyin: 'Yīngguó',        
         //traduccion
@@ -216,6 +228,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "paises",
         //pinyin
         pinyin: 'Jiānádà',        
         //traduccion
@@ -225,6 +238,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "paises",
         //pinyin
         pinyin: 'Rìbĕn',        
         //traduccion
@@ -234,6 +248,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "paises",
         //pinyin
         pinyin: 'éguó',        
         //traduccion
@@ -243,6 +258,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "paises",
         //pinyin
         pinyin: 'Făguó',        
         //traduccion
@@ -252,6 +268,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "lugares",
         //pinyin
         pinyin: 'cāntīng',        
         //traduccion
@@ -261,6 +278,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "estudio",
         //pinyin
         pinyin: 'xuéyuàn',        
         //traduccion
@@ -270,6 +288,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "lugares",
         //pinyin
         pinyin: 'sushè',        
         //traduccion
@@ -279,6 +298,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "lugares",
         //pinyin
         pinyin: 'cèsuŏ',        
         //traduccion
@@ -288,6 +308,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "lugares",
         //pinyin
         pinyin: 'céng',        
         //traduccion
@@ -297,15 +318,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
-        //pinyin
-        pinyin: 'zài',        
-        //traduccion
-        traduccion: 'estar',
-        //caracter
-        caracter: diCh.zai
-
-    },
-    {   
+        categoria: "adjetivos",
         //pinyin
         pinyin: 'dōu',        
         //traduccion
@@ -315,6 +328,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adjetivos",
         //pinyin
         pinyin: 'hĕn',        
         //traduccion
@@ -324,6 +338,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adverbio",
         //pinyin
         pinyin: 'yĕ',        
         //traduccion
@@ -333,6 +348,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adverbio inter",
         //pinyin
         pinyin: 'năr',        
         //traduccion
@@ -342,6 +358,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adverbio inter",
         //pinyin
         pinyin: 'nă',        
         //traduccion
@@ -351,6 +368,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adverbio inter",
         //pinyin
         pinyin: 'shénme',        
         //traduccion
@@ -360,6 +378,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adverbio inter",
         //pinyin
         pinyin: 'shéi',        
         //traduccion
@@ -369,6 +388,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'Zhōngwén',        
         //traduccion
@@ -378,6 +398,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'Hànyŭ',        
         //traduccion
@@ -387,6 +408,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'Yīngwén',        
         //traduccion
@@ -396,6 +418,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'Yīngyŭ',        
         //traduccion
@@ -405,6 +428,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'Rìwén',        
         //traduccion
@@ -414,6 +438,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'Rìyŭ',
         //traduccion
@@ -423,6 +448,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'èwén',        
         //traduccion
@@ -432,6 +458,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'èyŭ',        
         //traduccion
@@ -441,6 +468,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'Făyŭ',        
         //traduccion
@@ -450,6 +478,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'Făwén',        
         //traduccion
@@ -459,6 +488,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "idiomas",
         //pinyin
         pinyin: 'qĭngwèn',        
         //traduccion
@@ -468,6 +498,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'shì',        
         //traduccion
@@ -477,6 +508,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'wèn',        
         //traduccion
@@ -486,6 +518,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'kĕyĭ',        
         //traduccion
@@ -495,6 +528,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'zài',        
         //traduccion
@@ -504,6 +538,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'jiào',        
         //traduccion
@@ -513,6 +548,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'xìng',        
         //traduccion
@@ -522,6 +558,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'zhīdao',        
         //traduccion
@@ -531,6 +568,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'rènshi',        
         //traduccion
@@ -540,6 +578,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'jìn',        
         //traduccion
@@ -549,6 +588,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'lái',        
         //traduccion
@@ -558,6 +598,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'jìnlái',        
         //traduccion
@@ -567,6 +608,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "estudio",
         //pinyin
         pinyin: 'xuéxí',        
         //traduccion
@@ -576,6 +618,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adjetivos",
         //pinyin
         pinyin: 'gāoxìng',        
         //traduccion
@@ -585,6 +628,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adjetivos",
         //pinyin
         pinyin: 'dà',        
         //traduccion
@@ -594,6 +638,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adjetivos",
         //pinyin
         pinyin: 'xiăo',        
         //traduccion
@@ -603,6 +648,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adjetivos",
         //pinyin
         pinyin: 'hăo',        
         //traduccion
@@ -612,6 +658,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adjetivos",
         //pinyin
         pinyin: 'wán',        
         //traduccion
@@ -621,6 +668,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "adjetivos",
         //pinyin
         pinyin: 'qĭngwèn',        
         //traduccion
@@ -630,6 +678,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "etiqueta",
         //pinyin
         pinyin: 'xièxie',        
         //traduccion
@@ -639,6 +688,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "etiqueta",
         //pinyin
         pinyin: 'duì bùqĭ',        
         //traduccion
@@ -648,6 +698,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "etiqueta",
         //pinyin
         pinyin: 'méi guānxi',        
         //traduccion
@@ -657,6 +708,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "etiqueta",
         //pinyin
         pinyin: 'nín guì xìng',        
         //traduccion
@@ -666,6 +718,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "etiqueta",
         //pinyin
         pinyin: 'zàijiàn ',        
         //traduccion
@@ -675,6 +728,17 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "etiqueta",
+        //pinyin
+        pinyin: 'zài ',        
+        //traduccion
+        traduccion: 'otra vez',
+        //caracter
+        caracter: diCh.zai_otravez
+
+    },
+    {   
+        categoria: "verbos",
         //pinyin
         pinyin: 'hē',        
         //traduccion
@@ -684,6 +748,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'nán',        
         //traduccion
@@ -693,6 +758,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'nǚ',        
         //traduccion
@@ -702,6 +768,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'nánshì',        
         //traduccion
@@ -711,6 +778,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'nǚshì',        
         //traduccion
@@ -720,6 +788,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'tàitai',        
         //traduccion
@@ -729,6 +798,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'nánpéngyŏu',        
         //traduccion
@@ -738,6 +808,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'nǚpéngyŏu',        
         //traduccion
@@ -747,6 +818,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'jiĕjie',        
         //traduccion
@@ -756,6 +828,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'mèimei',        
         //traduccion
@@ -765,6 +838,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'gēge',        
         //traduccion
@@ -774,6 +848,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'dìdi',        
         //traduccion
@@ -783,6 +858,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'xiăojiĕ',        
         //traduccion
@@ -792,6 +868,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'xiānsheng',        
         //traduccion
@@ -801,6 +878,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'wàipó',        
         //traduccion
@@ -810,6 +888,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'năinai',        
         //traduccion
@@ -819,6 +898,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'wàigōng',        
         //traduccion
@@ -828,6 +908,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'yéye',        
         //traduccion
@@ -837,6 +918,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'bàba',        
         //traduccion
@@ -846,6 +928,7 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "personas",
         //pinyin
         pinyin: 'māma',        
         //traduccion
@@ -949,4 +1032,15 @@ function ocultarRespuesta(){
     mostrar('espanol','chEspanol');
 }
 
-    
+let listas = document.getElementById("listas");
+let categorias = ["pron dem", "estudio", "profesiones", "paises", "lugares", "adjetivos", "adverbio", "adverbio inter", "idiomas", "verbos", "etiqueta" ,"personas"];
+for (const a of categorias) {
+    let bufferListas = []; 
+    listas.innerHTML=listas.innerHTML + "<h2>"+ a + "</h2>" + "<br>";
+    for(const b of caracteresPinyinTraduccion){
+        if (b.categoria==a){
+            listas.innerHTML=listas.innerHTML + "<h2>"+ b.caracter + "___________"+ b.pinyin + "___________" + b.traduccion + "</h2>" + "<br>";
+        }
+    }
+}
+
