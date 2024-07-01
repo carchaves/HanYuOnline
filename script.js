@@ -99,7 +99,10 @@ let diCh = {
     ye_abuelo: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/29239.svg" title="爷 ( ye / yé ) orden de los trazos" width="150" height="150"></object>',
     ba: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/29240.svg" title="爸 ( ba / bà ) orden de los trazos" width="150" height="150"></object>',
     ma: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/22920.svg" title="妈 ( ma / mā ) orden de los trazos" width="150" height="150"></object>',
-    han: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/27721.svg" title="汉 ( han / hàn ) orden de los trazos"width="150" height="150"></object>'
+    han: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/27721.svg" title="汉 ( han / hàn ) orden de los trazos" width="150" height="150"></object>',
+    a: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/38463.svg" title="阿 ( a / ā ) orden de los trazos" width="150" height="150"></object>',
+    gen: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/26681.svg" title="根 ( gen / gēn ) orden de los trazos" width="150" height="150"></object>',
+    ting_argentina: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24311.svg" title="廷 ( ting / tíng ) orden de los trazos" width="150" height="150"></object>' 
     
     
 
@@ -107,6 +110,8 @@ let diCh = {
 
 }
 let caracteresPinyinTraduccion = [
+
+    //PRONOMBRES DEMOSTRATIVOS------------------------------------------------
     {   
         categoria: "pron dem",
         //pinyin
@@ -132,7 +137,7 @@ let caracteresPinyinTraduccion = [
         //pinyin
         pinyin: 'zhèr',        
         //traduccion
-        traduccion: 'aquí',
+        traduccion: 'aquí/acá',
         //caracter
         caracter: diCh.zhe + diCh.er
 
@@ -142,9 +147,30 @@ let caracteresPinyinTraduccion = [
         //pinyin
         pinyin: 'nàr',        
         //traduccion
-        traduccion: 'hay',
+        traduccion: 'allá/ahí/allí',
         //caracter
         caracter: diCh.na + diCh.er
+
+    },
+    //ESTUDIO------------------------------------------------------------------
+    {   
+        categoria: "estudio",
+        //pinyin
+        pinyin: 'xué',        
+        //traduccion
+        traduccion: 'estudio',
+        //caracter
+        caracter: diCh.xue
+
+    },
+    {   
+        categoria: "estudio",
+        //pinyin
+        pinyin: 'xuéxí',        
+        //traduccion
+        traduccion: 'estudiar',
+        //caracter
+        caracter: diCh.xue + diCh.xi_practica
 
     },
     {   
@@ -158,11 +184,51 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
+        categoria: "estudio",
+        //pinyin
+        pinyin: 'xuéyuàn',        
+        //traduccion
+        traduccion: 'institución educativa',
+        //caracter
+        caracter: diCh.xue + diCh.yuan 
+
+    },
+    {   
+        categoria: "estudio",
+        //pinyin
+        pinyin: 'xiăoxué',        
+        //traduccion
+        traduccion: 'primaria',
+        //caracter
+        caracter: diCh.xiao + diCh.xue
+    },
+    {   
+        categoria: "estudio",
+        //pinyin
+        pinyin: 'zhōngxué',        
+        //traduccion
+        traduccion: 'secundaria',
+        //caracter
+        caracter: diCh.zhong + diCh.xue
+
+    },
+    {   
+        categoria: "estudio",
+        //pinyin
+        pinyin: 'dàxué',        
+        //traduccion
+        traduccion: 'secundaria',
+        //caracter
+        caracter: diCh.da + diCh.xue
+
+    },
+    //PROFESIONES---------------------------------------------------------------
+    {   
         categoria: "profesiones",
         //pinyin
         pinyin: 'yīshēng',        
         //traduccion
-        traduccion: 'médico',
+        traduccion: 'médico/a // doctor/a',
         //caracter
         caracter: diCh.yi + diCh.sheng
 
@@ -172,7 +238,7 @@ let caracteresPinyinTraduccion = [
         //pinyin
         pinyin: 'lăoshī',        
         //traduccion
-        traduccion: 'profesor',
+        traduccion: 'maestro/a',
         //caracter
         caracter: diCh.lao + diCh.shi_maestro
 
@@ -182,7 +248,7 @@ let caracteresPinyinTraduccion = [
         //pinyin
         pinyin: 'jiàoshòu',        
         //traduccion
-        traduccion: 'profesor',
+        traduccion: 'profesor/a',
         //caracter
         caracter: diCh.jiao + diCh.shou
 
@@ -197,6 +263,7 @@ let caracteresPinyinTraduccion = [
         caracter: diCh.ji + diCh.zhe_elque
 
     },
+    //PAISES-------------------------------------------------------------------
     {   
         categoria: "paises",
         //pinyin
@@ -206,6 +273,15 @@ let caracteresPinyinTraduccion = [
         //caracter
         caracter: diCh.zhong +diCh.guo
 
+    },
+    {   
+        categoria: "paises",
+        //pinyin
+        pinyin: 'Āgēntíng',        
+        //traduccion
+        traduccion: 'Argentina',
+        //caracter
+        caracter: diCh.a + diCh.gen + diCh.ting_argentina
     },
     {   
         categoria: "paises",
@@ -267,6 +343,7 @@ let caracteresPinyinTraduccion = [
         caracter: diCh.fa +diCh.guo
 
     },
+    //LUGARES-----------------------------------------------------------------
     {   
         categoria: "lugares",
         //pinyin
@@ -275,16 +352,6 @@ let caracteresPinyinTraduccion = [
         traduccion: 'comedor',
         //caracter
         caracter: diCh.can +diCh.ting
-
-    },
-    {   
-        categoria: "estudio",
-        //pinyin
-        pinyin: 'xuéyuàn',        
-        //traduccion
-        traduccion: 'institución educativa',
-        //caracter
-        caracter: diCh.xue + diCh.yuan 
 
     },
     {   
@@ -317,6 +384,7 @@ let caracteresPinyinTraduccion = [
         caracter: diCh.ceng
 
     },
+    //ADJETIVOS--------------------------------------------------------
     {   
         categoria: "adjetivos",
         //pinyin
@@ -337,6 +405,57 @@ let caracteresPinyinTraduccion = [
         caracter: diCh.hen
 
     },
+    {   
+        categoria: "adjetivos",
+        //pinyin
+        pinyin: 'gāoxìng',        
+        //traduccion
+        traduccion: 'encantado',
+        //caracter
+        caracter: diCh.gao + diCh.xing_feliz
+
+    },
+    {   
+        categoria: "adjetivos",
+        //pinyin
+        pinyin: 'dà',        
+        //traduccion
+        traduccion: 'grande',
+        //caracter
+        caracter: diCh.da
+
+    },
+    {   
+        categoria: "adjetivos",
+        //pinyin
+        pinyin: 'xiăo',        
+        //traduccion
+        traduccion: 'pequeño',
+        //caracter
+        caracter: diCh.xiao
+
+    },
+    {   
+        categoria: "adjetivos",
+        //pinyin
+        pinyin: 'hăo',        
+        //traduccion
+        traduccion: 'bueno/bien',
+        //caracter
+        caracter: diCh.hao
+
+    },
+    {   
+        categoria: "adjetivos",
+        //pinyin
+        pinyin: 'wán',        
+        //traduccion
+        traduccion: 'tarde',
+        //caracter
+        caracter: diCh.wan
+
+    },
+    //ADVERBIOS-----------------------------------------------------------------
     {   
         categoria: "adverbio",
         //pinyin
@@ -387,6 +506,7 @@ let caracteresPinyinTraduccion = [
         caracter: diCh.shei
 
     },
+    //IDIOMAS---------------------------------------------------------------------------
     {   
         categoria: "idiomas",
         //pinyin
@@ -497,6 +617,7 @@ let caracteresPinyinTraduccion = [
         caracter: diCh.qing + diCh.wen
 
     },
+    //VERBOS--------------------------------------------------------------------------
     {   
         categoria: "verbos",
         //pinyin
@@ -608,75 +729,16 @@ let caracteresPinyinTraduccion = [
 
     },
     {   
-        categoria: "estudio",
+        categoria: "verbos",
         //pinyin
-        pinyin: 'xuéxí',        
+        pinyin: 'hē',        
         //traduccion
-        traduccion: 'estudiar',
+        traduccion: 'beber',
         //caracter
-        caracter: diCh.xue + diCh.xi_practica
+        caracter: diCh.he
 
     },
-    {   
-        categoria: "adjetivos",
-        //pinyin
-        pinyin: 'gāoxìng',        
-        //traduccion
-        traduccion: 'encantado',
-        //caracter
-        caracter: diCh.gao + diCh.xing_feliz
-
-    },
-    {   
-        categoria: "adjetivos",
-        //pinyin
-        pinyin: 'dà',        
-        //traduccion
-        traduccion: 'grande',
-        //caracter
-        caracter: diCh.da
-
-    },
-    {   
-        categoria: "adjetivos",
-        //pinyin
-        pinyin: 'xiăo',        
-        //traduccion
-        traduccion: 'pequeño',
-        //caracter
-        caracter: diCh.xiao
-
-    },
-    {   
-        categoria: "adjetivos",
-        //pinyin
-        pinyin: 'hăo',        
-        //traduccion
-        traduccion: 'bueno/bien',
-        //caracter
-        caracter: diCh.hao
-
-    },
-    {   
-        categoria: "adjetivos",
-        //pinyin
-        pinyin: 'wán',        
-        //traduccion
-        traduccion: 'tarde',
-        //caracter
-        caracter: diCh.wan
-
-    },
-    {   
-        categoria: "adjetivos",
-        //pinyin
-        pinyin: 'qĭngwèn',        
-        //traduccion
-        traduccion: 'preguntar',
-        //caracter
-        caracter: diCh.qing + diCh.wen
-
-    },
+    //ETIQUETA---------------------------------------------------------------------------
     {   
         categoria: "etiqueta",
         //pinyin
@@ -695,6 +757,16 @@ let caracteresPinyinTraduccion = [
         traduccion: 'perdón/ lo siento',
         //caracter
         caracter: diCh.dui + diCh.bu + diCh.qi
+
+    },
+    {   
+        categoria: "etiqueta",
+        //pinyin
+        pinyin: 'qĭngwèn',        
+        //traduccion
+        traduccion: 'perdón una pregunta',
+        //caracter
+        caracter: diCh.qing + diCh.wen_preguntar
 
     },
     {   
@@ -737,16 +809,7 @@ let caracteresPinyinTraduccion = [
         caracter: diCh.zai_otravez
 
     },
-    {   
-        categoria: "verbos",
-        //pinyin
-        pinyin: 'hē',        
-        //traduccion
-        traduccion: 'beber',
-        //caracter
-        caracter: diCh.he
-
-    },
+    //PERSONAS---------------------------------------------------------------------------------
     {   
         categoria: "personas",
         //pinyin
@@ -937,7 +1000,8 @@ let caracteresPinyinTraduccion = [
         caracter: diCh.ma + diCh.ma
 
     }
-    //agregar numeros...
+    //BEBIDAS--------------------------------------------------------------------------
+    //NUMEROS--------------------------------------------------------------------------
     
 ];
 
@@ -1034,13 +1098,19 @@ function ocultarRespuesta(){
 
 let listas = document.getElementById("listas");
 let categorias = ["pron dem", "estudio", "profesiones", "paises", "lugares", "adjetivos", "adverbio", "adverbio inter", "idiomas", "verbos", "etiqueta" ,"personas"];
+var numCaracter = 0; 
 for (const a of categorias) {
     let bufferListas = []; 
     listas.innerHTML=listas.innerHTML + "<h2>"+ a + "</h2>" + "<br>";
     for(const b of caracteresPinyinTraduccion){
         if (b.categoria==a){
-            listas.innerHTML=listas.innerHTML + "<h2>"+ b.caracter + "___________"+ b.pinyin + "___________" + b.traduccion + "</h2>" + "<br>";
+            listas.innerHTML=listas.innerHTML + "<h2>"+ '<div id="' + numCaracter + '">' + b.caracter + '</div>'  + "___________"+ b.pinyin + "___________" + b.traduccion + "</h2>" + "<br>";
+            numCaracter++;
         }
     }
+}
+
+function redibujarCaracter(string,id){
+    document.getElementById(id).innerHTML=string;
 }
 
