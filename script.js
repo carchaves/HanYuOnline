@@ -117,7 +117,7 @@ let caracteresPinyinTraduccion = [
         //pinyin
         pinyin: 'zhè',        
         //traduccion
-        traduccion: 'este, eso',
+        traduccion: 'este, esto',
         //caracter
         caracter: diCh.zhe
 
@@ -217,7 +217,7 @@ let caracteresPinyinTraduccion = [
         //pinyin
         pinyin: 'dàxué',        
         //traduccion
-        traduccion: 'secundaria',
+        traduccion: 'universidad',
         //caracter
         caracter: diCh.da + diCh.xue
 
@@ -610,11 +610,21 @@ let caracteresPinyinTraduccion = [
     {   
         categoria: "idiomas",
         //pinyin
-        pinyin: 'qĭngwèn',        
+        pinyin: 'wàiwèn',        
         //traduccion
-        traduccion: 'por favor una pregunta',
+        traduccion: 'idioma extranjero',
         //caracter
-        caracter: diCh.qing + diCh.wen
+        caracter: diCh.wai + diCh.wen
+
+    },
+    {   
+        categoria: "idiomas",
+        //pinyin
+        pinyin: 'wàiyŭ',        
+        //traduccion
+        traduccion: 'idioma extranjero',
+        //caracter
+        caracter: diCh.wai + diCh.yu
 
     },
     //VERBOS--------------------------------------------------------------------------
@@ -764,7 +774,7 @@ let caracteresPinyinTraduccion = [
         //pinyin
         pinyin: 'qĭngwèn',        
         //traduccion
-        traduccion: 'perdón una pregunta',
+        traduccion: 'porfavor una pregunta',
         //caracter
         caracter: diCh.qing + diCh.wen_preguntar
 
