@@ -873,7 +873,7 @@ let caracteresPinyinTraduccion = [
     {   
         categoria: "personas",
         //pinyin
-        pinyin: 'nánpéngyŏu',        
+        pinyin: 'nánpéngyou',        
         //traduccion
         traduccion: 'novio',
         //caracter
@@ -883,7 +883,7 @@ let caracteresPinyinTraduccion = [
     {   
         categoria: "personas",
         //pinyin
-        pinyin: 'nǚpéngyŏu',        
+        pinyin: 'nǚpéngyou',        
         //traduccion
         traduccion: 'novia',
         //caracter
