@@ -1,1 +1,19 @@
 /* añadir estilo */
+body{
+    background-color: rgb(20, 23, 204);
+}
+
+#checkboxes{
+    background-color: red;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    
+}
+.modo{
+    background-color: aqua;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px ;
+    text-align: center;
+}

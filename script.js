@@ -675,7 +675,7 @@ let caracteresPinyinTraduccion = [
         //traduccion
         traduccion: 'llamarse/nombre',
         //caracter
-        caracter: diCh.jiao
+        caracter: diCh.jiao_llamar
 
     },
     {   
@@ -786,7 +786,7 @@ let caracteresPinyinTraduccion = [
         //traduccion
         traduccion: 'no pasa nada',
         //caracter
-        caracter: diCh.mei + diCh.guan  + diCh.xi
+        caracter: diCh.mei_no + diCh.guan  + diCh.xi
 
     },
     {   
