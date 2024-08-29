@@ -102,9 +102,36 @@ let diCh = {
     han: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/27721.svg" title="汉 ( han / hàn ) orden de los trazos" width="150" height="150"></object>',
     a: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/38463.svg" title="阿 ( a / ā ) orden de los trazos" width="150" height="150"></object>',
     gen: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/26681.svg" title="根 ( gen / gēn ) orden de los trazos" width="150" height="150"></object>',
-    ting_argentina: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24311.svg" title="廷 ( ting / tíng ) orden de los trazos" width="150" height="150"></object>' 
-    
-    
+    ting_argentina: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24311.svg" title="廷 ( ting / tíng ) orden de los trazos" width="150" height="150"></object>',
+    qu: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21435.svg" title="去 ( qu / qù ) orden de los trazos"></object>',
+    you_nadar: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/28216.svg" title="游 ( you / yóu ) orden de los trazos"></object>',
+    yong: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/27891.svg" title="泳 ( yong / yŏng ) orden de los trazos"></object>',
+    zuo: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/26152.svg" title="昨 ( zuo / zuó ) orden de los trazos"></object>',
+    tian: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/22825.svg" title="天 ( tian / tiān ) orden de los trazos"></object>',
+    jing: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20140.svg" title="京 ( jing / jīng ) orden de los trazos"></object>',
+    ju: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21095.svg" title="剧 ( ju / jù ) orden de los trazos"></object>',
+    zen: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24590.svg" title="怎 ( zen / zĕn ) orden de los trazos"></object>',
+    yang: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/26679.svg" title="样 ( yang / yàng ) orden de los trazos"></object>',
+    you_tener: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/26377.svg" title="有 ( you / yŏu ) orden de los trazos"></object>',
+    yi_interesante: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24847.svg" title="意 ( yi / yì ) orden de los trazos"></object>',
+    si: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24605.svg" title="思 ( si / sī ) orden de los trazos"></object>',
+    jin_hoy: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20170.svg" title="今 ( jin / jīn ) orden de los trazos"></object>',
+    qi_cielo: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/27668.svg" title="气 ( qi / qì ) orden de los trazos"></object>',
+    shi_tiempo: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/26102.svg" title="时 ( shi / shí ) orden de los trazos"></object>',
+    hou: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20505.svg" title="候 ( hou / hòu ) orden de los trazos"></object>',
+    xian_ahora: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/29616.svg" title="现 ( xian / xiàn ) orden de los trazos"></object>',
+    ming: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/26126.svg" title="明 ( ming / míng ) orden de los trazos"></object>',
+    jian_tiempo: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/26102.svg" title="时 ( shi / shí ) orden de los trazos"></object>',
+    shuo_hablar: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/38388.svg" title="间 ( jian / jiān ) orden de los trazos"></object>',
+    bian: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/36941.svg" title="遍 ( bian / biàn ) orden de los trazos"></object>',
+    da_jugar: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/25171.svg" title="打 ( da / dă ) orden de los trazos"></object>',
+    qiu: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/29699.svg" title="球 ( qiu / qiú ) orden de los trazos"></object>',
+    bao: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/25265.svg" title="抱 ( bao / bào ) orden de los trazos"></object>',
+    qian: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/27465.svg" title="歉 ( qian / qiàn ) orden de los trazos"></object>',
+    kong: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24656.svg" title="恐 ( kong / kŏng ) orden de los trazos"></object>',
+    pa: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24597.svg" title="怕 ( pa / pà ) orden de los trazos"></object>',
+    xing_estar_bien: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/34892.svg" title="行 ( xing / xíng ) orden de los trazos"></object>'
+
 
 
 
@@ -1009,10 +1036,249 @@ let caracteresPinyinTraduccion = [
         //caracter
         caracter: diCh.ma + diCh.ma
 
-    }
+    },
     //BEBIDAS--------------------------------------------------------------------------
     //NUMEROS--------------------------------------------------------------------------
+
     
+    //--------------------------------------------------------------------------
+    {   
+        categoria: "verbo",
+        //pinyin
+        pinyin: 'qù',        
+        //traduccion
+        traduccion: 'ir',
+        //caracter
+        caracter: diCh.qu
+
+    },
+
+    {   
+        categoria: "verbo",
+        //pinyin
+        pinyin: 'yóuyŏng',        
+        //traduccion
+        traduccion: 'nadar',
+        //caracter
+        caracter: diCh.you_nadar + diCh.yong
+
+    },
+
+    
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'zuótiān',        
+        //traduccion
+        traduccion: 'ayer',
+        //caracter
+        caracter: diCh.zuo + diCh.tian
+
+    },
+
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'jīngjù',        
+        //traduccion
+        traduccion: 'Ópera de Pekín',
+        //caracter
+        caracter: diCh.jing + diCh.ju
+
+    },
+
+    
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'zĕnmeyàng',        
+        //traduccion
+        traduccion: '¿qué tal?',
+        //caracter
+        caracter: diCh.zen + diCh.me + diCh.yang
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'yŏu yìsi',        
+        //traduccion
+        traduccion: 'interesante',
+        //caracter
+        caracter: diCh.you_tener + diCh.yi_interesante + diCh.si
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'jīntiān',        
+        //traduccion
+        traduccion: 'hoy',
+        //caracter
+        caracter: diCh.jin_hoy + diCh.tian
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'tiān',        
+        //traduccion
+        traduccion: 'día',
+        //caracter
+        caracter: diCh.tian
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'tiānqì',        
+        //traduccion
+        traduccion: 'atmosférico',
+        //caracter
+        caracter: diCh.tai + diCh.qi_cielo
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'tài',        
+        //traduccion
+        traduccion: 'demasiado',
+        //caracter
+        caracter: diCh.tai
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'shíhou',        
+        //traduccion
+        traduccion: 'tiempo; momento',
+        //caracter
+        caracter: diCh.shi_tiempo + diCh.hou
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'xiànzài',        
+        //traduccion
+        traduccion: 'ahora',
+        //caracter
+        caracter: diCh.xian_ahora + diCh.zai
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'míngtiān',        
+        //traduccion
+        traduccion: 'mañana',
+        //caracter
+        caracter: diCh.ming + diCh.tian
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'yŏu',        
+        //traduccion
+        traduccion: 'tener',
+        //caracter
+        caracter: diCh.you_tener
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'shíjiān',        
+        //traduccion
+        traduccion: 'tiempo',
+        //caracter
+        caracter: diCh.shi_tiempo + diCh.jian_tiempo
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'shuō',        
+        //traduccion
+        traduccion: 'hablar',
+        //caracter
+        caracter: diCh.shuo_hablar
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'biàn',        
+        //traduccion
+        traduccion: 'numero de veces (de una acción)',
+        //caracter
+        caracter: diCh.bian
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'dă qiú',        
+        //traduccion
+        traduccion: 'jugar a la pelota',
+        //caracter
+        caracter: diCh.da_jugar + diCh.qiu
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'dă',        
+        //traduccion
+        traduccion: 'jugar',
+        //caracter
+        caracter: diCh.da_jugar
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'qiú',        
+        //traduccion
+        traduccion: 'pelota',
+        //caracter
+        caracter: diCh.qiu
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'bàoqiàn',        
+        //traduccion
+        traduccion: 'lo siento',
+        //caracter
+        caracter: diCh.bao + diCh.qian
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'kŏngpà',        
+        //traduccion
+        traduccion: 'quizás, tener que',
+        //caracter
+        caracter: diCh.kong + diCh.pa
+
+    },
+    {   
+        categoria: "",
+        //pinyin
+        pinyin: 'xíng',        
+        //traduccion
+        traduccion: 'estar bien',
+        //caracter
+        caracter: diCh.xing_estar_bien
+
+    }
+
 ];
 
 let bufferCaracteres = [];
