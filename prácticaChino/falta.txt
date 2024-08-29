@@ -1,6 +1,0 @@
-agregar estilo
-verificar las palabras
-agregar palabras faltantes
-agregar boton de volver a escribir
---
-agregar listas
