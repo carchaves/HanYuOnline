@@ -1,19 +1,155 @@
 /* añadir estilo */
+*{
+    border: 1px solid black;
+    font-family: inter;
+    font-size: 1.1rem;
+}
 body{
-    background-color: rgb(20, 23, 204);
+    background-color: #5EAFEA;
+}
+
+nav{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 35px;
+     position: relative;
+     color: white;
+     background-color: black;
+    
+}
+nav #dic{
+    position: absolute;
+    right: 20px;
 }
 
 #checkboxes{
-    background-color: red;
-    display: flex;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 35px;
+     position: relative;
+     color: white;
+}
+
+#checkboxes div {
+    width: 25%;
     text-align: center;
-    padding: 5px;
+    margin: 0 2.5%;
+    background-color: black;
+}
+
+/* #chHanzi{
+    display: none;
+}
+
+#chPinyin{
+    display: none;
+}
+
+#chEspanol{
+    display: none;
+} */
+
+#informacion{
+    width: 75%;
+    text-align: center;
+    margin: 10% 12.5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#hanzidiv{
+    height: 10rem;
+    width: 100%;
+    line-height: 10rem;
+    padding: 0;
+    margin: 0;
+    text-align: center;
     
 }
-.modo{
-    background-color: aqua;
-    padding: 5px;
-    margin-left: 5px;
-    margin-right: 5px ;
+
+#hanzidiv *{
+    height: 10rem;
+    line-height: 10rem;
+    padding: 0;
+    margin: 0;
+    
+}
+@media (max-width:650px){
+#hanzi *{
+    display: inline-block;
+    width: 125px;
+}
+}
+
+@media (max-width:650px){
+#hanzi *{
+    display: inline-block;
+    width: 100px;
+}
+}
+
+@media (max-width:450px){
+#hanzi *{
+    display: inline-block;
+    width: 75px;
+}
+}
+
+@media (max-width:350px){
+    #hanzi *{
+        display: inline-block;
+        width: 46.5px;
+    }
+    }
+
+
+#pinyindiv{
+    height: 4rem;
+    width: 100%;
+    line-height: 4rem;
+    padding: 0;
+    margin: 0;
+    
+
+}
+
+#pinyindiv *{
+    height: 4rem;
+    line-height: 4rem;
+    padding: 0;
+    margin: 0;
+}
+
+#espanoldiv{
+    height: 4rem;
+    width: 100%;
+    line-height: 4rem;
+    padding: 0;
+    margin: 0;
+}
+
+#espanoldiv *{
+    height: 4rem;
+    width: 100%;
+    line-height: 4rem;
+    padding: 0;
+    margin: 0;
+}
+
+#botondiv{
+    height: 3rem;
+    width: 33.3%;
+}
+
+#boton{
+    height: 3rem;
+    width: 100%;
     text-align: center;
+    margin: 0;
+    background-color: black;
+    color: white;
+    
 }

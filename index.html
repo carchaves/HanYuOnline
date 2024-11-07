@@ -4,47 +4,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>practica chino</title>
-    <!-- <link rel="stylesheet" href="styles.css"> -->
+    <link rel="stylesheet" href="styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
 </head>
 <body>
-    <a href="lista.html">diccionario</a>
+    
+
+    <nav> <div id="logo"> hanyu online </div> <div id="dic"><a href="lista.html" >diccionario</a></div></nav>
+
     <div id="checkboxes">
 
-        <div class="modo">
+        <div class="modo" id="divchHanzi">
             <input type="checkbox" id="chHanzi" checked onclick="mostrar('hanzi','chHanzi')"> Hanzi
         </div>
 
-        <div class="modo">
+        <div class="modo" id="divchPinyin">
             <input type="checkbox" id="chPinyin" checked onclick="mostrar('pinyin','chPinyin')"> Pinyin
         </div>
 
-        <div class="modo">
+        <div class="modo" id="divchEspanol">
             <input type="checkbox" id="chEspanol" checked onclick="mostrar('espanol','chEspanol')"> Español
         </div>
         
         
     </div>
 
-    <div id="boton">
-        <button  onclick="setCheckpoints();" >establecer modo</button>
-    </div>
+    <div id="informacion">
+        <div id ="hanzidiv">
+        <div id ="hanzi">
+            <h2>HANZI</h2>
+        </div>
+        </div>
 
-    <div id ="hanzi">
-        <h2>HANZI</h2>
-    </div>
+        <div id ="pinyindiv">
+        <div id ="pinyin">
+            <h2 id="PinYin">PINYIN</h2>
+        </div>
+        </div>
 
+        <div id ="espanoldiv">
+        <div id ="espanol">
+            <h2 id="traduccion">TRADUCCION</h2>
+        </div>
+        </div>
+
+        <div id="botondiv">
+            <button id="boton" onclick="setCheckpoints();" >establecer modo</button>
+        </div>
     
-    <div id ="pinyin">
-        <h2 id="PinYin">PINYIN</h2>
     </div>
 
-    
-    <div id ="espanol">
-        <h2 id="traduccion">TRADUCCION</h2>
-    </div>
-
-   
-    
     <script src="script.js"></script>
 
     

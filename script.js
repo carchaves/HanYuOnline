@@ -1299,8 +1299,8 @@ function generarEnteroAleatorio(cantidadImagenes) {
 }  
 
 
-let buton1 = '<button  onclick="cargarImagenAleatoria();" >caracter aleatorio</button>';
-let buton2 = '<button  onclick="mostrarRespuesta();" >respuesta</button>';
+let buton1 = '<button id="boton" onclick="cargarImagenAleatoria();" >caracter aleatorio</button>';
+let buton2 = '<button id="boton" onclick="mostrarRespuesta();" >respuesta</button>';
 
 const chHanzi = document.getElementById("chHanzi");
 const chPinyin = document.getElementById("chPinyin");
@@ -1325,7 +1325,7 @@ function setCheckpoints(){
         estadoChTraduccion = true;
     }
     document.getElementById("checkboxes").style.display = "none";
-    document.getElementById("boton").innerHTML=buton1;
+    document.getElementById("botondiv").innerHTML=buton1;
 
 }
 
@@ -1340,7 +1340,7 @@ function cargarImagenAleatoria(){
     document.getElementById("hanzi").innerHTML=caracterAleatorio;
     document.getElementById("PinYin").innerHTML=pinyinAleatorio;
     document.getElementById("traduccion").innerHTML=traduccionAleatoria;
-    document.getElementById("boton").innerHTML=buton2;
+    document.getElementById("botondiv").innerHTML=buton2;
 }
 
 // funcion para mostrar respuesta la segunda vez que se clickea el boton
@@ -1361,7 +1361,7 @@ function mostrarRespuesta(){
     mostrar('hanzi','chHanzi');
     mostrar('pinyin','chPinyin');
     mostrar('espanol','chEspanol');
-    document.getElementById("boton").innerHTML=buton1;
+    document.getElementById("botondiv").innerHTML=buton1;
 }
 function ocultarRespuesta(){
     chHanzi.checked = estadoChHanzi;
