@@ -1,6 +1,6 @@
 /* añadir estilo */
 *{
-    border: 1px solid black;
+    
     font-family: inter;
     font-size: 1.1rem;
 }
@@ -23,42 +23,70 @@ nav #dic{
     position: absolute;
     right: 20px;
 }
+#logo a{
+    text-decoration: none;
+    color: white;
+}
 
 #checkboxes{
+     margin: 50px 0;
      display: flex;
      align-items: center;
      justify-content: center;
      height: 35px;
      position: relative;
      color: white;
+     
 }
 
-#checkboxes div {
+ 
+
+.modo {
+    height: 3rem;
+    line-height: 2.8em;
     width: 25%;
     text-align: center;
     margin: 0 2.5%;
-    background-color: black;
+    background-color: gray ;
+    transition: background-color 0.3s;
+    border-radius: 50px;
+    border: solid black 3px;
 }
 
-/* #chHanzi{
+.checkboxModo{
+    cursor: pointer;
+}
+
+#chHanzi{
     display: none;
+}
+#chHanzi:checked + #divchHanzi{
+    background-color: black;
 }
 
 #chPinyin{
     display: none;
 }
+#chPinyin:checked + #divchPinyin{
+    background-color: black;
+}
 
 #chEspanol{
     display: none;
-} */
+}
+#chEspanol:checked + #divchEspanol{
+    background-color: black;
+}
 
 #informacion{
     width: 75%;
     text-align: center;
-    margin: 10% 12.5%;
+    margin: 5% 12.5%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    border-radius: 5%;
+    border: solid black 5px;
 }
 
 #hanzidiv{
@@ -68,6 +96,7 @@ nav #dic{
     padding: 0;
     margin: 0;
     text-align: center;
+    border-bottom: solid black 1px;
     
 }
 
@@ -113,7 +142,7 @@ nav #dic{
     line-height: 4rem;
     padding: 0;
     margin: 0;
-    
+    border-bottom: solid black 1px;
 
 }
 
@@ -130,6 +159,7 @@ nav #dic{
     line-height: 4rem;
     padding: 0;
     margin: 0;
+    border-bottom: solid black 5px;
 }
 
 #espanoldiv *{
@@ -141,16 +171,18 @@ nav #dic{
 }
 
 #botondiv{
-    height: 3rem;
-    width: 33.3%;
+    height: 4em;
+    width: 100%;
+    
 }
 
 #boton{
-    height: 3rem;
-    width: 100%;
+    height: 3em;
+    width: 33.3%;
     text-align: center;
-    margin: 0;
+    margin: 0.5em;
     background-color: black;
     color: white;
+    border-radius: 50px;
     
 }

@@ -10,20 +10,24 @@
 <body>
     
 
-    <nav> <div id="logo"> hanyu online </div> <div id="dic"><a href="lista.html" >diccionario</a></div></nav>
+    <nav> <div id="logo"> <a href="index.html">HanYu Online</a>  </div> <div id="dic"><a href="lista.html" ><!--...--></a></div></nav>
 
     <div id="checkboxes">
 
+        <input type="checkbox" id="chHanzi" checked onclick="mostrar('hanzi','chHanzi')"> 
         <div class="modo" id="divchHanzi">
-            <input type="checkbox" id="chHanzi" checked onclick="mostrar('hanzi','chHanzi')"> Hanzi
+            <label for="chHanzi" class="checkboxModo">Hanzi</label>
         </div>
+
+        <input type="checkbox" id="chPinyin" checked onclick="mostrar('pinyin','chPinyin')">
 
         <div class="modo" id="divchPinyin">
-            <input type="checkbox" id="chPinyin" checked onclick="mostrar('pinyin','chPinyin')"> Pinyin
+            <label for="chPinyin" class="checkboxModo">Pinyin</label> 
         </div>
 
+        <input type="checkbox" id="chEspanol" checked onclick="mostrar('espanol','chEspanol')">
         <div class="modo" id="divchEspanol">
-            <input type="checkbox" id="chEspanol" checked onclick="mostrar('espanol','chEspanol')"> Español
+            <label for="chEspanol" class="checkboxModo">Español</label> 
         </div>
         
         
