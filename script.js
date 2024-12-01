@@ -130,10 +130,78 @@ let diCh = {
     qian: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/27465.svg" title="歉 ( qian / qiàn ) orden de los trazos" width="150" height="150"></object>',
     kong: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24656.svg" title="恐 ( kong / kŏng ) orden de los trazos" width="150" height="150"></object>',
     pa: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24597.svg" title="怕 ( pa / pà ) orden de los trazos" width="150" height="150"></object>',
-    xing_estar_bien: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/34892.svg" title="行 ( xing / xíng ) orden de los trazos" width="150" height="150"></object>'
-
-
-
+    xing_estar_bien: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/34892.svg" title="行 ( xing / xíng ) orden de los trazos" width="150" height="150"></object>',
+    kai1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24320.svg" title="开 ( kai / kāi ) orden de los trazos"></object>',
+    kan4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/30475.svg" title="看 ( kan / kàn ) orden de los trazos"></object>',
+    wen4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/38382.svg" title="问 ( wen / wèn ) orden de los trazos"></object>',
+    yi1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/19968.svg" title="一 ( yi / yī ) orden de los trazos"></object>',
+    xia4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/19979.svg" title="下 ( xia / xià ) orden de los trazos"></object>',
+    ming2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21517.svg" title="名 ( ming / míng ) orden de los trazos"></object>',
+    pian4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/29255.svg" title="片 ( pian / piàn ) orden de los trazos"></object>',
+    a4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21834.svg" title="啊 ( a / à ) orden de los trazos"></object>',
+    ding1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/19969.svg" title="丁 ( ding / dīng ) orden de los trazos"></object>',
+    li4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21147.svg" title="力 ( li / lì ) orden de los trazos"></object>',
+    bo1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/27874.svg" title="波 ( bo / bō ) orden de los trazos"></object>',
+    zhang1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24352.svg" title="张 ( zhang / zhāng ) orden de los trazos"></object>',
+    jie4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20171.svg" title="介 ( jie / jiè ) orden de los trazos"></object>',
+    shao4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/32461.svg" title="绍 ( shao / shào ) orden de los trazos"></object>',
+    zi4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/23383.svg" title="字 ( zi / zì ) orden de los trazos"></object>',
+    zhuan1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/19987.svg" title="专 ( zhuan / zhuān ) orden de los trazos"></object>',
+    ye4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/19994.svg" title="业 ( ye / yè ) orden de los trazos"></object>',
+    shu4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/26415.svg" title="术 ( shu / shù ) orden de los trazos"></object>',
+    ma3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/39532.svg" title="马 ( ma / mă ) orden de los trazos"></object>',
+    wei2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20026.svg" title="为 ( wei / wèi ) orden de los trazos"></object>',
+    hua4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21270.svg" title="化 ( hua / huà ) orden de los trazos"></object>',
+    li2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21382.svg" title="历 ( li / lì ) orden de los trazos"></object>',
+    shi3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21490.svg" title="史 ( shi / shĭ ) orden de los trazos"></object>',
+    zhe4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21746.svg" title="哲 ( zhe / zhé ) orden de los trazos"></object>',
+    yin1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/38899.svg" title="音 ( yin / yīn ) orden de los trazos"></object>',
+    yue4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20048.svg" title="乐 ( le / lè ) orden de los trazos"></object>',
+    jing1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/32463.svg" title="经 ( jing / jīng ) orden de los trazos"></object>',
+    ji4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/27982.svg" title="济 ( ji / jì ) orden de los trazos"></object>',
+    shu4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/25968.svg" title="数 ( shu / shŭ ) orden de los trazos"></object>',
+    wu4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/25968.svg" title="数 ( shu / shŭ ) orden de los trazos"></object>',
+    li3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/29702.svg" title="理 ( li / lĭ ) orden de los trazos"></object>',
+    yu4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/32946.svg" title="育 ( yu / yù ) orden de los trazos"></object>',
+    xuan3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/36873.svg" title="选 ( xuan / xuăn ) orden de los trazos"></object>',
+    xiu1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20462.svg" title="修 ( xiu / xiū ) orden de los trazos"></object>',
+    jia1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/23478.svg" title="家 ( jia / jiā ) orden de los trazos"></object>',
+    ji3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20960.svg" title="几 ( ji / jĭ ) orden de los trazos"></object>',
+    kou3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21475.svg" title="口 ( kou / kŏu ) orden de los trazos"></object>',
+    zhao4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/29031.svg" title="照 ( zhao / zhào ) orden de los trazos"></object>',
+    he2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21644.svg" title="和 ( he / hé ) orden de los trazos"></object>',
+    ge4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20010.svg" title="个 ( ge / gè ) orden de los trazos"></object>',
+    liang: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20004.svg" title="两 ( liang / liăng ) orden de los trazos"></object>',
+    gong4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20849.svg" title="共 ( gong / gòng ) orden de los trazos"></object>',
+    gou3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/29399.svg" title="狗 ( gou / gŏu ) orden de los trazos"></object>',
+    dang1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24403.svg" title="当 ( dang / dāng ) orden de los trazos"></object>',
+    ran2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/28982.svg" title="然 ( ran / rán ) orden de los trazos"></object>',
+    zhen1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/30495.svg" title="真 ( zhen / zhēn ) orden de los trazos"></object>',
+    ai4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/29233.svg" title="爱 ( ai / ài ) orden de los trazos"></object>',
+    zuo4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20570.svg" title="做 ( zuo / zuò ) orden de los trazos"></object>',
+    gong1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24037.svg" title="工 ( gong / gōng ) orden de los trazos"></object>',
+    zuo4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20316.svg" title="作 ( zuo / zuò ) orden de los trazos"></object>',
+    wang2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/29579.svg" title="王 ( wang / wáng ) orden de los trazos"></object>',
+    yun2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20113.svg" title="云 ( yun / yún ) orden de los trazos"></object>',
+    bei4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/36125.svg" title="贝 ( bei / bèi ) orden de los trazos"></object>',
+    duo1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/22810.svg" title="多 ( duo / duō ) orden de los trazos"></object>',
+    shao3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/23569.svg" title="少 ( shao / shăo ) orden de los trazos"></object>',
+    xi3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21916.svg" title="喜 ( xi / xĭ ) orden de los trazos"></object>',
+    huan1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/27426.svg" title="欢 ( huan / huān ) orden de los trazos"></object>',
+    bai3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/30334.svg" title="百 ( bai / băi ) orden de los trazos"></object>',
+    che1: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/36710.svg" title="车 ( che / chē ) orden de los trazos"></object>',
+    ci2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/35789.svg" title="词 ( ci / cí ) orden de los trazos"></object>',
+    dian3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20856.svg" title="典 ( dian / diăn ) orden de los trazos"></object>',
+    dian4: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/30005.svg" title="电 ( dian / diàn ) orden de los trazos"></object>',
+    nao3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/33041.svg" title="脑 ( nao / năo ) orden de los trazos"></object>',
+    hai2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/23401.svg" title="孩 ( hai / hái ) orden de los trazos"></object>',
+    zi3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/23376.svg" title="子 ( zi / zĭ ) orden de los trazos"></object>',
+    zhu3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20027.svg" title="主 ( zhu / zhŭ ) orden de los trazos"></object>',
+    ren2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/20219.svg" title="任 ( ren / rèn ) orden de los trazos"></object>',
+    zhu2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/21161.svg" title="助 ( zhu / zhù ) orden de los trazos"></object>',
+    lu2: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/24459.svg" title="律 ( lü / lǜ ) orden de los trazos"></object>',
+    cheng3: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/31243.svg" title="程 ( cheng / chéng ) orden de los trazos"></object>',
+    hai2_ademas: '<object id="ccwSvg" class="ccwSvg" type="image/svg+xml" data="https://www.hantrainerpro.com/dictionary/chinese-character-animations/36824.svg" title="还 ( hai / hái ) orden de los trazos"></object>'
 
 }
 let caracteresPinyinTraduccion = [
@@ -1043,7 +1111,7 @@ let caracteresPinyinTraduccion = [
     
     //--------------------------------------------------------------------------
     {   
-        categoria: "verbo",
+        categoria: "verbos",
         //pinyin
         pinyin: 'qù',        
         //traduccion
@@ -1054,7 +1122,7 @@ let caracteresPinyinTraduccion = [
     },
 
     {   
-        categoria: "verbo",
+        categoria: "verbos",
         //pinyin
         pinyin: 'yóuyŏng',        
         //traduccion
@@ -1276,6 +1344,626 @@ let caracteresPinyinTraduccion = [
         traduccion: 'estar bien',
         //caracter
         caracter: diCh.xing_estar_bien
+
+    },
+    {   
+        categoria: "verbos",
+        //pinyin
+        pinyin: 'kāixué',        
+        //traduccion
+        traduccion: 'empezar el colegio',
+        //caracter
+        caracter: diCh.kai1 + diCh.xue 
+
+    },
+    {   
+        categoria: "verbos",
+        //pinyin
+        pinyin: 'kāi',        
+        //traduccion
+        traduccion: 'empezar',
+        //caracter
+        caracter: diCh.kai1
+
+    },
+    {   
+        categoria: "adjetivo",
+        //pinyin
+        pinyin: 'gāo',        
+        //traduccion
+        traduccion: 'alto',
+        //caracter
+        caracter: diCh.gao
+
+    },
+    {   
+        categoria: "verbos",
+        //pinyin
+        pinyin: 'kàn',        
+        //traduccion
+        traduccion: 'mirar, ver',
+        //caracter
+        caracter: diCh.kan4
+
+    },
+    {   
+        categoria: "etiqueta",
+        //pinyin
+        pinyin: 'yíxià',        
+        //traduccion
+        traduccion: 'brevemente',
+        //caracter
+        caracter: diCh.yi1 + diCh.xia4
+
+    },
+    {   
+        categoria: "objeto",
+        //pinyin
+        pinyin: 'mingpìan',        
+        //traduccion
+        traduccion: 'tarjeta de presentación',
+        //caracter
+        caracter: diCh.ming2 + diCh.pian4
+
+    },
+    {   
+        categoria: "etiqueta",
+        //pinyin
+        pinyin: 'à',        
+        //traduccion
+        traduccion: 'ah, oh',
+        //caracter
+        caracter: diCh.a4
+
+    },
+    {   
+        categoria: "verbos",
+        //pinyin
+        pinyin: 'jiāo',        
+        //traduccion
+        traduccion: 'enseñar',
+        //caracter
+        caracter: diCh.jiao
+
+    },
+    {   
+        categoria: "nombre",
+        //pinyin
+        pinyin: 'Dīng Lìbō',        
+        //traduccion
+        traduccion: 'Ding Libo un nombre',
+        //caracter
+        caracter: diCh.ding1 +diCh.li4 + diCh.bo1
+
+    },
+    {   
+        categoria: "nombre",
+        //pinyin
+        pinyin: 'Zhāng',        
+        //traduccion
+        traduccion: 'Zhang un apellido',
+        //caracter
+        caracter: diCh.zhang1
+
+    },
+    {   
+        categoria: "verbos",
+        //pinyin
+        pinyin: 'jièshào',        
+        //traduccion
+        traduccion: 'presentar',
+        //caracter
+        caracter: diCh.jie4 + diCh.shao4
+
+    },
+    {   
+        categoria: "etiqueta",
+        //pinyin
+        pinyin: 'míngzi',        
+        //traduccion
+        traduccion: 'nombre',
+        //caracter
+        caracter: diCh.ming2 + diCh.zi4
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'zhuānyè',        
+        //traduccion
+        traduccion: 'carrera, especialidad',
+        //caracter
+        caracter: diCh.zhuan1 + diCh.ye4
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'měishù',        
+        //traduccion
+        traduccion: 'bellas artes',
+        //caracter
+        caracter: diCh.mei + diCh.shu4
+
+    },
+    {   
+        categoria: "adjetivo",
+        //pinyin
+        pinyin: 'měi',        
+        //traduccion
+        traduccion: 'bello',
+        //caracter
+        caracter: diCh.mei
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'wénxué',        
+        //traduccion
+        traduccion: 'literatura',
+        //caracter
+        caracter: diCh.wen + diCh.xue
+
+    },
+    {   
+        categoria: "lugares",
+        //pinyin
+        pinyin: 'xì',        
+        //traduccion
+        traduccion: 'facultad',
+        //caracter
+        caracter: diCh.xi
+
+    },
+    {   
+        categoria: "nombre",
+        //pinyin
+        pinyin: 'Mǎ Dàwéi',        
+        //traduccion
+        traduccion: 'nombre',
+        //caracter
+        caracter: diCh.ma3 + diCh.da + diCh.wei2
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'wénhuà',
+        //traduccion
+        traduccion: 'cultura',
+        //caracter
+        caracter: diCh.wen + diCh.hua4
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'lìshǐ',        
+        //traduccion
+        traduccion: 'historia',
+        //caracter
+        caracter: diCh.li4 + diCh.shi3
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'zhéxué',        
+        //traduccion
+        traduccion: 'filosofía',
+        //caracter
+        caracter: diCh.zhe4 + diCh.xue
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'yīnyuè',        
+        //traduccion
+        traduccion: 'música',
+        //caracter
+        caracter: diCh.yin1 + diCh.yue4
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'jīngjì',        
+        //traduccion
+        traduccion: 'economía',
+        //caracter
+        caracter: diCh.jing1 + diCh.ji4
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'shùxué',        
+        //traduccion
+        traduccion: 'matemáticas',
+        //caracter
+        caracter: diCh.shu4 + diCh.xue
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'wùlǐ',        
+        //traduccion
+        traduccion: 'física',
+        //caracter
+        caracter: diCh.wu4 + diCh.li3
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'huàxué',        
+        //traduccion
+        traduccion: 'química',
+        //caracter
+        caracter: diCh.hua4 + diCh.xue
+
+    },
+    {   
+        categoria: "materia",
+        //pinyin
+        pinyin: 'jiàoyù',        
+        //traduccion
+        traduccion: 'educación',
+        //caracter
+        caracter: diCh.jiao + diCh.yu4
+
+    },
+    {   
+        categoria: "verbos",
+        //pinyin
+        pinyin: 'xuǎnxiū',        
+        //traduccion
+        traduccion: 'escoger una asignatura optativa',
+        //caracter
+        caracter: diCh.xuan3 + diCh.xiu1
+
+    },
+    {   
+        categoria: "sustantivo",
+        //pinyin
+        pinyin: 'jiā',        
+        //traduccion
+        traduccion: 'hogar,familia',
+        //caracter
+        caracter: diCh.jia1
+
+    },
+    {   
+        categoria: "adverbio int",
+        //pinyin
+        pinyin: 'jǐ',        
+        //traduccion
+        traduccion: 'cuántos',
+        //caracter
+        caracter: diCh.ji3
+
+    },
+    {   
+        categoria: "clasificador",
+        //pinyin
+        pinyin: 'kǒu',        
+        //traduccion
+        traduccion: 'clasificador para miembros de la familia',
+        //caracter
+        caracter: diCh.kou3
+
+    },
+    {   
+        categoria: "objeto",
+        //pinyin
+        pinyin: 'zhàopiàn',        
+        //traduccion
+        traduccion: 'fotografía',
+        //caracter
+        caracter: diCh.zhao4 + diCh.pian4
+
+    },
+    {   
+        categoria: "conjunción",
+        //pinyin
+        pinyin: 'hé',        
+        //traduccion
+        traduccion: 'y',
+        //caracter
+        caracter: diCh.he2
+
+    },
+    {   
+        categoria: "clasificador",
+        //pinyin
+        pinyin: 'gè',        
+        //traduccion
+        traduccion: 'clasificador de uso general (gè)',
+        //caracter
+        caracter: diCh.ge4
+
+    },
+    {   
+        categoria: "numero",
+        //pinyin
+        pinyin: 'liǎng',        
+        //traduccion
+        traduccion: 'dos',
+        //caracter
+        caracter: diCh.liang
+
+    },
+    {   
+        categoria: "adverbio",
+        //pinyin
+        pinyin: 'hái',        
+        //traduccion
+        traduccion: 'además',
+        //caracter
+        caracter: diCh.hai2_ademas
+
+    },
+    {   
+        categoria: "adverbio",
+        //pinyin
+        pinyin: 'yígòng',        
+        //traduccion
+        traduccion: 'en total',
+        //caracter
+        caracter: diCh.yi1 + diCh.gong4
+
+    },
+    {   
+        categoria: "animales",
+        //pinyin
+        pinyin: 'gǒu',
+        //traduccion
+        traduccion: 'perro',
+        //caracter
+        caracter: diCh.gou3
+
+    },
+    {   
+        categoria: "clasificador",
+        //pinyin
+        pinyin: 'zhāng',        
+        //traduccion
+        traduccion: 'clasificador de objetos planos',
+        //caracter
+        caracter: diCh.zhang1
+
+    },
+    {   
+        categoria: "adjetivo",
+        //pinyin
+        pinyin: 'dāngrán',        
+        //traduccion
+        traduccion: 'por supuesto',
+        //caracter
+        caracter: diCh.dang1 + diCh.ran2
+
+    },
+    {   
+        categoria: "adjetivo",
+        //pinyin
+        pinyin: 'zhēn',        
+        //traduccion
+        traduccion: 'realmente',
+        //caracter
+        caracter: diCh.zhen1
+
+    },
+    {   
+        categoria: "adjetivo",
+        //pinyin
+        pinyin: 'kě\'ài',        
+        //traduccion
+        traduccion: 'adorable',
+        //caracter
+        caracter: diCh.ke + diCh.ai4
+
+    },
+    {   
+        categoria: "verbos",
+        //pinyin
+        pinyin: 'ài',        
+        //traduccion
+        traduccion: 'amar',
+        //caracter
+        caracter: diCh.ai4
+
+    },
+    {   
+        categoria: "adverbio",
+        //pinyin
+        pinyin: 'méi',        
+        //traduccion
+        traduccion: 'no',
+        //caracter
+        caracter: diCh.mei_no
+
+    },
+    {   
+        categoria: "verbos",
+        //pinyin
+        pinyin: 'zuò',        
+        //traduccion
+        traduccion: 'hacer',
+        //caracter
+        caracter: diCh.zuo4
+
+    },
+    {   
+        categoria: "verbos",
+        //pinyin
+        pinyin: 'gōngzuò',        
+        //traduccion
+        traduccion: 'trabajo, trabajar',
+        //caracter
+        caracter: diCh.gong1 + diCh.zuo4
+
+    },
+    {   
+        categoria: "nombre",
+        //pinyin
+        pinyin: 'Wáng Xiǎoyún',        
+        //traduccion
+        traduccion: 'nombre',
+        //caracter
+        caracter: diCh.wang2 + diCh.xiao + diCh.yun2
+
+    },
+    {   
+        categoria: "nombre",
+        //pinyin
+        pinyin: 'Bèibei',        
+        //traduccion
+        traduccion: 'nombre de un perro',
+        //caracter
+        caracter: diCh.bei4 + diCh.bei4
+
+    },
+    {   
+        categoria: "adverbio int",
+        //pinyin
+        pinyin: 'duōshao',        
+        //traduccion
+        traduccion: 'cuántos',
+        //caracter
+        caracter: diCh.duo1 + diCh.shao3
+
+    },
+    {   
+        categoria: "adjetivo",
+        //pinyin
+        pinyin: 'duō',        
+        //traduccion
+        traduccion: 'mucho',
+        //caracter
+        caracter: diCh.duo1
+
+    },
+    {   
+        categoria: "adjetivo",
+        //pinyin
+        pinyin: 'shǎo',        
+        //traduccion
+        traduccion: 'poco',
+        //caracter
+        caracter: diCh.shao3
+
+    },
+    {   
+        categoria: "verbos",
+        //pinyin
+        pinyin: 'xǐhuan',        
+        //traduccion
+        traduccion: 'gustar, preferir',
+        //caracter
+        caracter: diCh.xi3 + diCh.huan1
+
+    },
+    {   
+        categoria: "país",
+        //pinyin
+        pinyin: 'wàiguó',        
+        //traduccion
+        traduccion: 'país extranjero',
+        //caracter
+        caracter: diCh.wai + diCh.gou3
+
+    },
+    {   
+        categoria: "número",
+        //pinyin
+        pinyin: 'bǎi',        
+        //traduccion
+        traduccion: 'cien',
+        //caracter
+        caracter: diCh.bai3
+
+    },
+    {   
+        categoria: "objeto",
+        //pinyin
+        pinyin: 'chē',        
+        //traduccion
+        traduccion: 'coche, auto',
+        //caracter
+        caracter: diCh.che1
+
+    },
+    {   
+        categoria: "objeto",
+        //pinyin
+        pinyin: 'cídiǎn',        
+        //traduccion
+        traduccion: 'diccionario',
+        //caracter
+        caracter: diCh.ci2 + diCh.dian3
+
+    },
+    {   
+        categoria: "objeto",
+        //pinyin
+        pinyin: 'diànnǎo',        
+        //traduccion
+        traduccion: 'computadora, ordenador',
+        //caracter
+        caracter: diCh.dian4 + diCh.nao3
+
+    },
+    {   
+        categoria: "sustantivo",
+        //pinyin
+        pinyin: 'háizi',        
+        //traduccion
+        traduccion: 'niño',
+        //caracter
+        caracter: diCh.hai2 + diCh.zi3
+
+    },
+    {   
+        categoria: "profesión",
+        //pinyin
+        pinyin: 'xìzhǔrèn',        
+        //traduccion
+        traduccion: 'jefe de departamento',
+        //caracter
+        caracter: diCh.xi + diCh.zhu3 + diCh.ren2
+
+    },
+    {   
+        categoria: "profesión",
+        //pinyin
+        pinyin: 'zhùjiào',        
+        //traduccion
+        traduccion: 'ayudante de profesor',
+        //caracter
+        caracter: diCh.zhu2 + diCh.jiao
+
+    },
+    {   
+        categoria: "profesión",
+        //pinyin
+        pinyin: 'lǜshī',        
+        //traduccion
+        traduccion: 'abogado',
+        //caracter
+        caracter: diCh.lu2 + diCh.shi_maestro
+
+    },
+    {   
+        categoria: "profesión",
+        //pinyin
+        pinyin: 'gōngchéngshī',        
+        //traduccion
+        traduccion: 'ingeniero',
+        //caracter
+        caracter: diCh.gong1 + diCh.cheng3 + diCh.shi_maestro
 
     }
 
