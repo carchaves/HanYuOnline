@@ -1,0 +1,201 @@
+,
+{categoria: "tiempo",
+//pinyin
+pinyin: "jīnnián",
+//traduccion
+traduccion: "este año",
+//caracter
+caracter: diCh.今_jin_jīn_ + diCh.年_nian_nián_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "nián",
+//traduccion
+traduccion: "año",
+//caracter
+caracter: diCh.年_nian_nián_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "jīntiān",
+//traduccion
+traduccion: "hoy",
+//caracter
+caracter: diCh.今_jin_jīn_ + diCh.天_tian_tiān_
+},
+{categoria: "etiqueta",
+//pinyin
+pinyin: "zĕnmeyàng",
+//traduccion
+traduccion: "cómo",
+//caracter
+caracter: diCh.怎_zen_zĕn_ + diCh.么_me_ + diCh.样_yang_yàng_
+},
+{categoria: "clasificador",
+//pinyin
+pinyin: "suì",
+//traduccion
+traduccion: "año",
+//caracter
+caracter: diCh.岁_sui_suì_
+},
+{categoria: "sustantivo",
+//pinyin
+pinyin: "kè",
+//traduccion
+traduccion: "clase, lección",
+//caracter
+caracter: diCh.课_ke_kè_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "xīngqī",
+//traduccion
+traduccion: "semana",
+//caracter
+caracter: diCh.星_xing_xīng_ + diCh.期_qi_qī_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "shàngwŭ",
+//traduccion
+traduccion: "por la mañana",
+//caracter
+caracter: diCh.上_shang_shàng_ + diCh.午_wu_wŭ_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "shàng",
+//traduccion
+traduccion: "encima, pasado",
+//caracter
+caracter: diCh.上_shang_shàng_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "xiàwŭ",
+//traduccion
+traduccion: "por la tarde",
+//caracter
+caracter: diCh.下_xia_xià_ + diCh.午_wu_wŭ_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "xià",
+//traduccion
+traduccion: "debajo, próximo",
+//caracter
+caracter: diCh.下_xia_xià_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "xīngqīrì",
+//traduccion
+traduccion: "domingo",
+//caracter
+caracter: diCh.星_xing_xīng_ + diCh.期_qi_qī_ + diCh.日_ri_rì_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "hào",
+//traduccion
+traduccion: "día del mes",
+//caracter
+caracter: diCh.号_hao_hào_
+},
+{categoria: "tiempo",
+//pinyin
+pinyin: "shēngrì",
+//traduccion
+traduccion: "cumpleaños",
+//caracter
+caracter: diCh.生_sheng_shēng_ + diCh.日_ri_rì_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "shēng",
+//traduccion
+traduccion: "nacer",
+//caracter
+caracter: diCh.生_sheng_shēng_
+},
+{categoria: "adverbio inter",
+//pinyin
+pinyin: "duōdà",
+//traduccion
+traduccion: "¿cuantos años (edad)?",
+//caracter
+caracter: diCh.多_duo_duō_ + diCh.大_da_dà_
+},
+{categoria: "adjetivos",
+//pinyin
+pinyin: "duō",
+//traduccion
+traduccion: "mucho",
+//caracter
+caracter: diCh.多_duo_duō_
+},
+{categoria: "adjetivos",
+//pinyin
+pinyin: "dà",
+//traduccion
+traduccion: "grande",
+//caracter
+caracter: diCh.大_da_dà_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "chūshēng",
+//traduccion
+traduccion: "nacer",
+//caracter
+caracter: diCh.出_chu_chū_ + diCh.生_sheng_shēng_
+},
+{categoria: "adverbio",
+//pinyin
+pinyin: "chū",
+//traduccion
+traduccion: "salir",
+//caracter
+caracter: diCh.出_chu_chū_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "shŭ",
+//traduccion
+traduccion: "nacer en el año de (signo)",
+//caracter
+caracter: diCh.属_shu_shŭ_
+},
+{categoria: "sustantivo",
+//pinyin
+pinyin: "jùhuì",
+//traduccion
+traduccion: "fiesta",
+//caracter
+caracter: diCh.聚_ju_jù_ + diCh.会_hui_huì_
+},
+{categoria: "sustantivo",
+//pinyin
+pinyin: "huì",
+//traduccion
+traduccion: "reunión",
+//caracter
+caracter: diCh.会_hui_huì_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "zhùhè",
+//traduccion
+traduccion: "felicitar, felicitación",
+//caracter
+caracter: diCh.祝_zhu_zhù_ + diCh.贺_he_hè_
+},
+{categoria: "verbos",
+//pinyin
+pinyin: "zhù",
+//traduccion
+traduccion: "desear, felicitar",
+//caracter
+caracter: diCh.祝_zhu_zhù_
+}

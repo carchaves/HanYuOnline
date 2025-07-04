@@ -1,19 +1,19 @@
-pron dem
+
+verbos
+sustantivos
+personas
+idiomas
+adverbio
+etiqueta
+tiempo
+materia
+adjetivos
+nombre
 estudio
-profesiones
 paises
 lugares
-adjetivos
-adverbio
-adverbio inter
-idiomas
-verbos
-etiqueta
-personas
-objeto
-nombre
-materia
-sustantivo
 clasificador
+preguntas
+profesiones
+pron dem
 numero
-prueba

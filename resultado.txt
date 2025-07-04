@@ -1,8 +1,0 @@
-{categoria: "prueba",
-//pinyin
-pinyin: "mŭqīn",
-//traduccion
-traduccion: "None",
-//caracter
-caracter: diCh.母_(_mu_/_mŭ_) + diCh.亲_(_qin_/_qīn_)
-},
